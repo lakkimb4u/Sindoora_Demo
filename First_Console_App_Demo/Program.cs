@@ -1,5 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("========== WELCOME TO GITHUB DEMO ============");
-Console.WriteLine("Press Enter to continue........"  );
-Console.ReadLine();
+using First_Console_App_Demo;
 
+Console.WriteLine("========== WELCOME TO GITHUB DEMO ============");
+
+Console.WriteLine("Please enter you user name: "  );
+
+string userName = Console.ReadLine();
+
+NewClass objNewClass = new NewClass();
+
+objNewClass.WeclomeSuser(userName);
