@@ -1,0 +1,14 @@
+C:\Learnings\GitHub_Demo\First_Console_App_Demo\First_Console_App_Demo\bin\Debug\net8.0\First_Console_App_Demo.exe
+C:\Learnings\GitHub_Demo\First_Console_App_Demo\First_Console_App_Demo\bin\Debug\net8.0\First_Console_App_Demo.deps.json
+C:\Learnings\GitHub_Demo\First_Console_App_Demo\First_Console_App_Demo\bin\Debug\net8.0\First_Console_App_Demo.runtimeconfig.json
+C:\Learnings\GitHub_Demo\First_Console_App_Demo\First_Console_App_Demo\bin\Debug\net8.0\First_Console_App_Demo.dll
+C:\Learnings\GitHub_Demo\First_Console_App_Demo\First_Console_App_Demo\bin\Debug\net8.0\First_Console_App_Demo.pdb
+C:\Learnings\GitHub_Demo\First_Console_App_Demo\First_Console_App_Demo\obj\Debug\net8.0\First_Console_App_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learnings\GitHub_Demo\First_Console_App_Demo\First_Console_App_Demo\obj\Debug\net8.0\First_Console_App_Demo.AssemblyInfoInputs.cache
+C:\Learnings\GitHub_Demo\First_Console_App_Demo\First_Console_App_Demo\obj\Debug\net8.0\First_Console_App_Demo.AssemblyInfo.cs
+C:\Learnings\GitHub_Demo\First_Console_App_Demo\First_Console_App_Demo\obj\Debug\net8.0\First_Console_App_Demo.csproj.CoreCompileInputs.cache
+C:\Learnings\GitHub_Demo\First_Console_App_Demo\First_Console_App_Demo\obj\Debug\net8.0\First_Console_App_Demo.dll
+C:\Learnings\GitHub_Demo\First_Console_App_Demo\First_Console_App_Demo\obj\Debug\net8.0\refint\First_Console_App_Demo.dll
+C:\Learnings\GitHub_Demo\First_Console_App_Demo\First_Console_App_Demo\obj\Debug\net8.0\First_Console_App_Demo.pdb
+C:\Learnings\GitHub_Demo\First_Console_App_Demo\First_Console_App_Demo\obj\Debug\net8.0\First_Console_App_Demo.genruntimeconfig.cache
+C:\Learnings\GitHub_Demo\First_Console_App_Demo\First_Console_App_Demo\obj\Debug\net8.0\ref\First_Console_App_Demo.dll
